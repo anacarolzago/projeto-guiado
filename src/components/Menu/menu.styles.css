@@ -2,14 +2,15 @@
     display: flex;
     justify-content: space-evenly;
     overflow: hidden;
-    background: white;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
     font-size: 24px;
     padding: 20px;
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
 }
   
 .navbar a {
-    color:#E79A80;
+    color:#fafafa;
     text-align: center;
     text-decoration: none;
 }
