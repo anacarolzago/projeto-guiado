@@ -11,7 +11,7 @@ const Menu = () =>{
         <Link  className="link" to="/lista">Lista de Tarefas</Link>
       </li>
       <li>
-        <a className="link" target="_blank" href="https://projeto-m-maravilhosa-ana-carolina-zago.netlify.app/">M de Maravilhosa</a> 
+        <a className="link" href="https://projeto-m-maravilhosa-ana-carolina-zago.netlify.app/">M de Maravilhosa</a> 
       </li> 
     </ul>
   )
